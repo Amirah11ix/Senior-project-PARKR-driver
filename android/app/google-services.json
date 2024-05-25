@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "486443342284",
+    "firebase_url": "https://parker-a7bad-default-rtdb.firebaseio.com",
+    "project_id": "parker-a7bad",
+    "storage_bucket": "parker-a7bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486443342284:android:f6acc4521523199b28e569",
+        "android_client_info": {
+          "package_name": "com.example.smart_car_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIZ85vpc-c4A9eHJ0263Y4afrBQ938mEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
